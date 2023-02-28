@@ -786,7 +786,7 @@ a.btn:hover {
 }
 #testimonials{
   display: flex;
-  transition: 0.5s;
+  transition: 2s ease;
 }
 .user_t{
   width: 800px;
@@ -851,7 +851,7 @@ a.btn:hover {
   border-radius: 15px;
   margin: 0 5px;
   cursor: pointer;
-  transition: 0.5s;
+  transition: 2s;
 }
 .active{
   width: 45px !important;
@@ -873,7 +873,7 @@ a.btn:hover {
   grid-template-rows: 20px 50px 1fr 50px;
   border-radius: 10px;
   box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.25);
-  transition: all 0.2s;
+  transition: all 0.5s;
 }
 
 .card_s:hover {
